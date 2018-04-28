@@ -1,2 +1,2 @@
-# log-analysis-project
-LOG ANALYSIS PROJECT
+# Log-Analysis-Project
+Using Python-DPI
