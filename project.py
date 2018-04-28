@@ -1,3 +1,5 @@
+# !/usr/bin/emv python3
+
 import psycopg2
 # database is using PostgreSQL so importing it
 
