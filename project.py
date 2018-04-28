@@ -7,7 +7,7 @@ import psycopg2
 # assigning database
 databasename = "news"
 
-
+# to store values of queries
 q1 = dict()
 q2 = dict()
 q3 = dict()
